@@ -13,6 +13,9 @@ It allows users to specify the desired length and generates a mix of letters, nu
 Features:
 
 1.Custom Length
+
 2.Strong Characters Mix
+
 3.Random Generation
+
 4.Instant Output
